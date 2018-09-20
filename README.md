@@ -1,2 +1,1 @@
-# version-1
-kedaiduludulu
+Kedai dulu dulu sistem
